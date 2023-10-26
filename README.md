@@ -1,6 +1,6 @@
 # houselessstrategies
 
-PowerBI DashBoard Link
+https://app.powerbi.com/viewr=eyJrIjoiNjdjNjNkYzctOWVlYy00ZmE3LTk4NDgtNWNlZDVhYjllOTliIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9 
 
 provide link
 
@@ -16,7 +16,7 @@ Table of Contents
 
 Summary
 
-Residing in a prosperous developed nation, the existence of a homeless population has always left me perplexed. This project aims to investigate the strategies employed by our country to combat this crisis and determine which programs have shown higher rates of success over time. Specifically, the project will probe into documented strategies for assisting individuals without homes between 2014 and 2022. The primary objective is to analyze which programs are more effective and to make recommendations of the number of programs necessary to meet the total need of the population, based on the current number of available programs. This information will serve as valuable guidance for those dedicated to serving their communities, offering insights into what it takes to address the crisis effectively within their respective states.
+Residing in a prosperous developed nation, the existence of a homeless population has always left me perplexed. This project aims to investigate the strategies employed by our country to combat this crisis and determine which programs have shown higher rates of success over time. Specifically, the project will probe into documented strategies for assisting individuals without homes between 2014 and 2022. In the year 2021, the collected data exhibited a slight reduction as a result of decreased field data collection stemming from COVID-19 exposure. The primary objective is to analyze which programs are more effective and to make recommendations of the number of programs necessary to meet the total need of the population, based on the current number of available programs. This information will serve as valuable guidance for those dedicated to serving their communities, offering insights into what it takes to address the crisis effectively within their respective states.
 
 During my childhood, my mother used to bring me to food banks and soup kitchens. As a child, I didn't fully comprehend the potential impact of our actions on others, which sometimes made my participation reluctant. Now, as an adult, I've witnessed the turmoil in our country's communities, prompting me to contemplate how I can make incremental contributions to address this issue. While I understand that tackling this problem single-handedly won't bring about sweeping change, I believe that by directing my newly acquired skills towards projects like this one, I can eventually create a positive influence on the lives of others throughout my career.
 
@@ -24,7 +24,7 @@ Terminology
 
 HMIS- Homeless management information systems
 HUD-Housing of Urban Development
-COC-Continuum of Care Program
+COC-Continuum of Care Program: *The department name within the HMIS*
 ES-Emergency Shelters
 TH-Transitional Housing
 SH-Safe Havens
