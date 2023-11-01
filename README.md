@@ -61,3 +61,10 @@ Technologies Used
 2) Excel: Primary use of excel was for adding information regarding total homeless populations, and for the purposes of cleaning.
 
 3) PowerBI: Primary use was for the creation of visuals and an interactive dashboard after the data had been cleaned and configured.
+
+Conclusion 
+
+
+In summary, the data findings reveal that the overall efficiency rate is notably higher within the long-term initiatives of the HMIS. However, this trend is subject to variation by state and can occasionally be reversed from year to year. Over the specified timeframe, there has been a consistent decrease in the overall homeless population among veterans and unaccompanied youth, while the resources allocated for youth have remained relatively constant.
+
+Regarding the effectiveness of state programs, although some states exhibit higher participation rates, most states require an increased number of programs and available resources to adequately address the needs of the total population served. In some cases, this could mean as much as 1.5 to 2 times more programs than are currently available to fully serve the community within the state.   
